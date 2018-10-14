@@ -1,0 +1,20 @@
+/* --- Shared CSS --- */
+
+/*--- Spacing ---*/
+.mt-auto {
+    margin-top: auto !important;
+}
+
+/*--- Position ---*/
+.relative {
+    position: relative;
+}
+
+/*--- Overwriting Semantic UI ---*/
+.ui.page.modals {
+    z-index: 9999;
+}
+/*.mt-20 {*/
+    /*margin-top: 20px !important;*/
+/*}*/
+

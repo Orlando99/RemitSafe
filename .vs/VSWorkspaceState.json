@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\Logout",
+    "\\client\\src\\components\\Nav",
+    "\\client\\src\\components\\WelcomeMessage",
+    "\\routes",
+    "\\routes\\api"
+  ],
+  "SelectedNode": "\\client\\src\\components\\Logout\\logout.js",
+  "PreviewInSolutionExplorer": false
+}

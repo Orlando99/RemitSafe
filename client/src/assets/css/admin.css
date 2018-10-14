@@ -1,0 +1,16 @@
+
+#createFormHide {
+    display: none;
+}
+
+#centerCreateHead {
+    text-align: center;
+}
+
+/* Remove Semantic preset border*/
+.removeBorder {
+    border: none !important;
+}
+
+
+

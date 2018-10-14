@@ -1,0 +1,19 @@
+.admin-dash .ui.card.box {
+    width: 100%;
+    height: 100%;
+    -webkit-box-shadow: 0 8px 6px -6px gray;
+    -moz-box-shadow: 0 8px 6px -6px gray;
+    box-shadow: 0 8px 6px -6px gray;
+}
+
+.box__content {
+    position: relative;
+    padding-bottom: 60px !important;
+}
+
+.box__button{
+    position: absolute;
+    bottom: 12px;
+    left: 0;
+    right: 0;
+}

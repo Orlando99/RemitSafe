@@ -1,0 +1,19 @@
+.searchbox {
+    width: 500px !important;
+    -webkit-box-shadow: 0 8px 6px -6px gray !important;
+    -moz-box-shadow: 0 8px 6px -6px gray !important;
+    box-shadow: 0 8px 6px -6px gray !important;
+}
+
+.searchcls {
+    position: relative;
+    width: 10px;
+    z-index: 1;
+    margin: 0 auto;
+    display: inline-block;
+    width: 252px;
+}
+
+.searchcls > .input {
+    width: 100%;
+}

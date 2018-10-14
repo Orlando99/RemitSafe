@@ -1,0 +1,53 @@
+{
+  "development": {
+    "username": "ccbl77ocza7sdp2k",
+    "password": "oh0ogq9ethmddc9b",
+    "database": "n66rtm418u4skmlk",
+    "port": 3306,
+    "host": "tyduzbv3ggpf15sx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "pool": {
+      "max": 5,
+      "min": 1,
+      "idle": 20000,
+      "evict": 20000,
+      "acquire": 20000
+    },
+    "operatorsAliases": false,
+    "weburl": "https://remitsafe.herokuapp.com/"
+  },
+  "test": {
+    "username": "ccbl77ocza7sdp2k",
+    "password": "oh0ogq9ethmddc9b",
+    "database": "n66rtm418u4skmlk",
+    "port": 3306,
+    "host": "tyduzbv3ggpf15sx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "pool": {
+      "max": 5,
+      "min": 1,
+      "idle": 20000,
+      "evict": 20000,
+      "acquire": 20000
+    },
+    "operatorsAliases": false,
+    "weburl": "https://remitsafe.herokuapp.com/"
+  },
+  "production": {
+    "username": "ccbl77ocza7sdp2k",
+    "password": "oh0ogq9ethmddc9b",
+    "database": "n66rtm418u4skmlk",
+    "port": 3306,
+    "host": "tyduzbv3ggpf15sx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "pool": {
+      "max": 5,
+      "min": 1,
+      "idle": 20000,
+      "evict": 20000,
+      "acquire": 20000
+    },
+    "operatorsAliases": false,
+    "weburl": "https://remitsafe.herokuapp.com/"
+  }
+}

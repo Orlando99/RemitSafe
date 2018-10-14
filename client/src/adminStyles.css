@@ -1,0 +1,85 @@
+.marginTopNavFix {
+    margin-top: 10% !important;
+}
+
+.gridColumnAliign {
+    margin: 120px auto 0;
+    width: 84%;
+    text-Align: center;
+}
+
+.organizationButtonStyle {
+    padding: 20px !important;
+    margin-bottom: 10px !important;
+    border-radius: 5px !important;
+}
+
+.entityMarginsFix {
+    margin-top: 30px !important;
+}
+
+.entityMarginLeftFix {
+    margin-left: -30px;
+}
+
+.infoBoxStyle {
+    width: 100% !important;
+    -webkit-box-shadow: 0 8px 6px -6px gray !important;
+    -moz-box-shadow: 0 8px 6px -6px gray !important;
+    box-shadow: 0 8px 6px -6px gray !important;
+    margin-top: -10px !important;
+}
+
+.pendingViewCard {
+    width: 84% !important;
+    height: auto !important;
+    margin: auto !important;
+    margin-top: 2% !important;
+    -webkit-box-shadow: 0 8px 6px -6px gray !important;
+    -moz-box-shadow: 0 8px 6px -6px gray !important;
+    box-shadow: 0 8px 6px -6px gray !important;
+}
+
+.remitBoxInfoCopy {
+    width: 100% !important;
+    border-radius: 3px;
+    border: 1px solid green !important;
+}
+
+.cardBoxBold {
+    border: 2px solid green !important;
+}
+
+.actionBtn {
+    font-size: 12px !important;
+}
+
+.smallPadding {
+    padding-top: 3px;
+}
+
+.rightBtn {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.allignLeft {
+    text-align: left;
+}
+.allignRight {
+    text-align: right;
+}
+
+.remitBoxBorderLeft {
+    border-left: 1px solid black;
+}
+
+.buttonGroupStyle {
+    margin-top: -10px !important;
+    border-radius: 2px !important;
+}
+
+.buttonTopMargin {
+    margin-top: 5px !important;
+}

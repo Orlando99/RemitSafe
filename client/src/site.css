@@ -1,0 +1,237 @@
+.marginsetup {
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.pointer {
+    cursor:pointer
+}
+
+.width360 {
+    width: 460px !important
+}
+
+.side-by-side {
+    float:left;
+    padding:0px 20px;
+}
+
+.largefont {
+    font-size: xx-large;
+}
+
+.msgbox {
+    width: 100% !important;
+    margin-top: 30px !important;
+    -webkit-box-shadow: 0 8px 6px -6px gray !important;
+    -moz-box-shadow: 0 8px 6px -6px gray !important;
+    box-shadow: 0 8px 6px -6px gray !important;
+}
+
+.companybox {
+    height: 100% !important;
+    width: 100% !important;
+    -webkit-box-shadow: 0 8px 6px -6px gray !important;
+    -moz-box-shadow: 0 8px 6px -6px gray !important;
+    box-shadow: 0 8px 6px -6px gray !important;
+}
+
+.twoboxheight {
+    width: 100% !important;
+    height: 100%!important;
+}
+
+.twobox {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+ .width100 {
+    width: 100%;
+}
+
+.companydetail {
+    font-weight: normal !important;
+    font-size: small !important;
+    text-align: center;
+    margin-left: -20px;
+}
+
+.paymentInfo {
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}
+
+body {
+    background-color: #F0F0F0 !important
+}
+
+.textright {
+    text-align: right;
+    vertical-align: middle;
+    margin-top: 20px;
+    align-content: end;
+    flex: 0.99;
+    margin-right: 10px;
+}
+
+i.teal.icon{
+    color:gainsboro !important;
+    cursor:pointer;
+    font-size: 46px;
+    margin-left: -8px;
+}
+
+i.teal.icon:hover{
+    color:gray !important;
+}
+
+linkhover:hover{
+    color:gray !important;
+}
+
+.ui.big.search {
+    font-size: 14px !important;
+}
+
+.ui.celled.grid{
+    -webkit-box-shadow: 0 8px 6px -6px gray !important;
+    -moz-box-shadow: 0 8px 6px -6px gray !important;
+    box-shadow: 0 8px 6px -6px gray !important;
+    background-color:white!important; 
+}
+
+.parentmargin{
+    margin-top: -10px!important;
+}
+
+.rightmargin {
+    margin-right: -10px !important;
+}
+
+.imgtopMargin {
+    margin-top:6px; 
+}
+
+.leftmargin {
+    margin-left: 8px !important;
+}
+
+.ui.attached.segment {
+    -webkit-box-shadow: 0 8px 6px -6px gray !important;
+    -moz-box-shadow: 0 8px 6px -6px gray !important;
+    box-shadow: 0 8px 6px -6px gray !important;
+}
+
+.custprimary {
+    color: #2185d0!important;
+    
+}
+
+.termcondition {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+.green {
+    color: green;
+}
+
+.footer-bottom{
+    width:105% !important;
+    margin-top: -10px !important;
+}
+
+.rs-zindex { 
+    position: relative;
+    z-index: 0;
+}
+
+.marginBottom150 {
+    margin-bottom: 150px;
+}
+
+.flexSection {
+    display: flex;
+}
+
+.infoTitle {
+    font-weight: bold;
+}
+
+.inlineSection {
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.infoSection {
+    padding-top: 12px;
+}
+
+.marginBottom20 {
+    margin-bottom: 20px;
+}
+
+.closeTermsTopButton {
+    color: gray !important;
+    background: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    position: absolute;
+    right: 0;
+    z-index: 10;
+    margin-right: 2% !important;
+}
+
+.CloseTermsIcon {
+    margin: auto !important;
+    box-sizing: inherit !important;
+}
+
+.editCompanyLabel {
+    border-bottom: 1px solid black;
+}
+
+.fontWeightAdjust {
+    font-weight: normal;
+}
+
+.orgTable {
+    color: black;
+    max-height: 250px;
+}
+
+.rt-thead {
+    background-color: skyblue;
+}
+
+.height40 {
+    height: 40px !important;
+}
+
+.searchgrid {
+    position: absolute !important;
+    right: 0px !important;
+    margin-right: 200px !important;
+}
+
+.termsUnderline:hover {
+    border-bottom: 1px solid black !important;
+    padding-bottom: 2px;
+}
+
+.marginBottomFix {
+    margin-bottom: 0 !important;
+}
+
+.margintop12 {
+    margin-top:-12px;
+}
